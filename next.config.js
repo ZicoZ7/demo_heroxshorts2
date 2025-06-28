@@ -5,6 +5,11 @@ const nextConfig = {
   compress: true,
   output: 'export',
   trailingSlash: true,
+  basePath: '/demo_heroxshorts2',
+  assetPrefix: '/demo_heroxshorts2/',
+  images: {
+    unoptimized: true
+  },
   onDemandEntries: {
     maxInactiveAge: 25 * 1000,
     pagesBufferLength: 2,
