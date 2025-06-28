@@ -11,6 +11,7 @@ import { HeroxShortsIcon } from "@/components/ui/custom-icon";
 import { VideoStatus } from "@/types/video";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
+import { getAssetPath } from "@/lib/utils/basePath";
 
 interface Clip {
     path: string;
@@ -78,7 +79,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: './projects/longtoshort/RonaldoFirstShotHitsthePost.mp4',
+                            path: getAssetPath('/projects/longtoshort/RonaldoFirstShotHitsthePost.mp4'),
                             confidence: 0.94,
                             viral_title: 'Ronaldo\'s First Shot Hits the Post!',
                             layout: 'fill'
@@ -414,7 +415,7 @@ export default function MyProjectsPage() {
                             type: 'IDEAS_TO_VIDEO'
                         }
                     },
-                    outputUrl: './projects/ideastovideo/creating delicious coconut treats that anyone can make at home.mp4',
+                    outputUrl: getAssetPath('/projects/ideastovideo/creating delicious coconut treats that anyone can make at home.mp4'),
                     script: 'Create delicious coconut treats that anyone can make at home. This easy recipe will show you how to make mouthwatering coconut-based desserts that are perfect for any occasion.'
                 },
                 {
@@ -426,7 +427,7 @@ export default function MyProjectsPage() {
                             type: 'IDEAS_TO_VIDEO'
                         }
                     },
-                    outputUrl: './projects/ideastovideo/Bet Big, Win Big The High-Stakes Arena.mp4',
+                    outputUrl: getAssetPath('/projects/ideastovideo/Bet Big, Win Big The High-Stakes Arena.mp4'),
                     script: 'Experience the thrill of high-stakes betting in this exciting arena where fortunes are made and lost. Watch as players bet big and win even bigger in this intense gambling environment.'
                 }
             ];

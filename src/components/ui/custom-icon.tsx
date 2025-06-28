@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import { cn } from '@/lib/utils/utils';
+import { getAssetPath } from '@/lib/utils/basePath';
 
 interface CustomIconProps {
   className?: string;
@@ -10,7 +11,7 @@ export const HeroxShortsIcon = ({ className, size = 50 }: CustomIconProps) => {
   return (
     <div className={cn('relative', className)} style={{ width: size, height: size }}>
       <Image
-        src="./heroxshorts.ico"
+        src={getAssetPath('/heroxshorts.ico')}
         alt="HeroxShorts"
         width={size}
         height={size}
