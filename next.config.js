@@ -3,6 +3,8 @@
 const nextConfig = {
   reactStrictMode: true,
   compress: true,
+  output: 'export',
+  trailingSlash: true,
   onDemandEntries: {
     maxInactiveAge: 25 * 1000,
     pagesBufferLength: 2,
