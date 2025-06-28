@@ -270,10 +270,12 @@ export default function ThumbnailGeneratorPage() {
             const a = document.createElement('a');
             a.href = url;
             a.download = `thumbnail-${Date.now()}.jpg`;
-            document.body.appendChild(a);
-            a.click();
-            window.URL.revokeObjectURL(url);
-            document.body.removeChild(a);
+            if (typeof window !== 'undefined') {
+                document.body.appendChild(a);
+                a.click();
+                window.URL.revokeObjectURL(url);
+                document.body.removeChild(a);
+            }
 
             toast({
                 title: "Download started",

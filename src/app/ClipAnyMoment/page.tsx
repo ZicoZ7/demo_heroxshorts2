@@ -265,7 +265,7 @@ export default function ClipAnyMomentPage() {
                                         `}
                                         onDrop={handleDrop}
                                         onDragOver={(e) => e.preventDefault()}
-                                        onClick={() => !isProcessing && document.getElementById('file-upload')?.click()}
+                                        onClick={() => !isProcessing && typeof window !== 'undefined' && document.getElementById('file-upload')?.click()}
                                     >
                                         <input
                                             id="file-upload"

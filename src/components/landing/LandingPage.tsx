@@ -801,13 +801,4 @@ export function LandingPage() {
             </footer>
         </div>
     );
-}
-
-const style = document.createElement('style');
-style.textContent = `
-@keyframes bounce {
-    0%, 100% { transform: scaleY(1); }
-    50% { transform: scaleY(1.5); }
-}
-`;
-document.head.appendChild(style); 
+} 
