@@ -78,7 +78,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtoshort/Ronaldo\'s First Shot Hits the Post!.mp4',
+                            path: './projects/longtoshort/Ronaldo\'s First Shot Hits the Post!.mp4',
                             confidence: 0.94,
                             viral_title: 'Ronaldo\'s First Shot Hits the Post!',
                             layout: 'fill'
@@ -96,7 +96,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtoshort/Why Ignorance Is Used To Control Populations.mp4',
+                            path: './projects/longtoshort/Why Ignorance Is Used To Control Populations.mp4',
                             confidence: 0.91,
                             viral_title: 'Why Ignorance Is Used To Control Populations',
                             layout: 'fill'
@@ -114,7 +114,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtoshort/Jamie\'s Frightening Ride On Backwards Roller Coaster.mp4',
+                            path: './projects/longtoshort/Jamie\'s Frightening Ride On Backwards Roller Coaster.mp4',
                             confidence: 0.89,
                             viral_title: 'Jamie\'s Frightening Ride On Backwards Roller Coaster',
                             layout: 'fill'
@@ -132,7 +132,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtoshort/Dominic Salanki Completes Tottenham\'s Dominance With Crucial Goal.mp4',
+                            path: './projects/longtoshort/Dominic Salanki Completes Tottenham\'s Dominance With Crucial Goal.mp4',
                             confidence: 0.96,
                             viral_title: 'Dominic Salanki Completes Tottenham\'s Dominance With Crucial Goal',
                             layout: 'fill'
@@ -150,7 +150,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtoshort/El Vijo Scores! Arnazar Team Pushes Hard.mp4',
+                            path: './projects/longtoshort/El Vijo Scores! Arnazar Team Pushes Hard.mp4',
                             confidence: 0.93,
                             viral_title: 'El Vijo Scores! Arnazar Team Pushes Hard',
                             layout: 'fill'
@@ -168,7 +168,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtoshort/Miraculous Recovery as Wind Changes Direction.mp4',
+                            path: './projects/longtoshort/Miraculous Recovery as Wind Changes Direction.mp4',
                             confidence: 0.87,
                             viral_title: 'Miraculous Recovery as Wind Changes Direction',
                             layout: 'fill'
@@ -186,7 +186,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtoshort/Harry Wins the Jet!.mp4',
+                            path: './projects/longtoshort/Harry Wins the Jet!.mp4',
                             confidence: 0.92,
                             viral_title: 'Harry Wins the Jet!',
                             layout: 'fill'
@@ -204,7 +204,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtoshort/Watch the Thrilling Moment They Take Off in Style.mp4',
+                            path: './projects/longtoshort/Watch the Thrilling Moment They Take Off in Style.mp4',
                             confidence: 0.88,
                             viral_title: 'Watch the Thrilling Moment They Take Off in Style',
                             layout: 'fill'
@@ -222,7 +222,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtoshort/Ronaldo broking hand.mp4',
+                            path: './projects/longtoshort/Ronaldo broking hand.mp4',
                             confidence: 0.95,
                             viral_title: 'Ronaldo broking hand',
                             layout: 'fill'
@@ -240,7 +240,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtoshort/Bet Big, Win Big The High-Stakes Arena.mp4',
+                            path: './projects/longtoshort/Bet Big, Win Big The High-Stakes Arena.mp4',
                             confidence: 0.90,
                             viral_title: 'Bet Big, Win Big The High-Stakes Arena',
                             layout: 'fill'
@@ -258,7 +258,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtoshort/The Journey of a Lifetime.mp4',
+                            path: './projects/longtoshort/The Journey of a Lifetime.mp4',
                             confidence: 0.86,
                             viral_title: 'The Journey of a Lifetime',
                             layout: 'fill'
@@ -276,7 +276,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtolong/Hypercar Enthusiast Finds Ultimate Luxury.mp4',
+                            path: './projects/longtolong/Hypercar Enthusiast Finds Ultimate Luxury.mp4',
                             confidence: 0.93,
                             title: 'Hypercar Enthusiast Finds Ultimate Luxury',
                             layout: 'fill'
@@ -294,7 +294,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtolong/The Hypercar Shopping Experience Is Unbelievably Complicated.mp4',
+                            path: './projects/longtolong/The Hypercar Shopping Experience Is Unbelievably Complicated.mp4',
                             confidence: 0.91,
                             title: 'The Hypercar Shopping Experience Is Unbelievably Complicated',
                             layout: 'fill'
@@ -312,7 +312,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/longtolong/Haunted Cave Strip Mining Horror.mp4',
+                            path: './projects/longtolong/Haunted Cave Strip Mining Horror.mp4',
                             confidence: 0.89,
                             title: 'Haunted Cave Strip Mining Horror',
                             layout: 'fill'
@@ -330,7 +330,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/clipanymoment/exciting moments from the race!_combined.mp4',
+                            path: './projects/clipanymoment/exciting moments from the race!_combined.mp4',
                             confidence: 0.96,
                             title: 'Exciting Moments from the Race! - Combined',
                             layout: 'fit',
@@ -353,7 +353,7 @@ export default function MyProjectsPage() {
                             ]
                         },
                         {
-                            path: '/projects/clipanymoment/exciting moments from the race!_tension builds as mac attempts to complete the race before running out of time, with only 29 minutes.mp4',
+                            path: './projects/clipanymoment/exciting moments from the race!_tension builds as mac attempts to complete the race before running out of time, with only 29 minutes.mp4',
                             confidence: 0.92,
                             title: 'Tension Builds as Mac Attempts to Complete the Race',
                             layout: 'fit',
@@ -364,7 +364,7 @@ export default function MyProjectsPage() {
                             highlights: ['time pressure', 'race completion', 'tension', 'countdown']
                         },
                         {
-                            path: '/projects/clipanymoment/exciting moments from the race!_mac struggles to open the umbrella shape and breaks the set, causing frustration among the participa.mp4',
+                            path: './projects/clipanymoment/exciting moments from the race!_mac struggles to open the umbrella shape and breaks the set, causing frustration among the participa.mp4',
                             confidence: 0.89,
                             title: 'Mac Struggles with Umbrella Shape',
                             layout: 'fit',
@@ -375,7 +375,7 @@ export default function MyProjectsPage() {
                             highlights: ['technical difficulty', 'frustration', 'set damage', 'obstacle']
                         },
                         {
-                            path: '/projects/clipanymoment/exciting moments from the race!_mac is flying through the easier shapes while mac\'s strategy makes sense, focusing on saving time fo.mp4',
+                            path: './projects/clipanymoment/exciting moments from the race!_mac is flying through the easier shapes while mac\'s strategy makes sense, focusing on saving time fo.mp4',
                             confidence: 0.94,
                             title: 'Mac\'s Strategic Approach to Easier Shapes',
                             layout: 'fit',
@@ -398,7 +398,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: '/projects/broll/Bet Big, Win Big The High-Stakes Arena.mp4',
+                            path: './projects/broll/Bet Big, Win Big The High-Stakes Arena.mp4',
                             confidence: 0.94,
                             search_term: 'High-Stakes Arena',
                             layout: 'fill'
@@ -414,7 +414,7 @@ export default function MyProjectsPage() {
                             type: 'IDEAS_TO_VIDEO'
                         }
                     },
-                    outputUrl: '/projects/ideastovideo/creating delicious coconut treats that anyone can make at home.mp4',
+                    outputUrl: './projects/ideastovideo/creating delicious coconut treats that anyone can make at home.mp4',
                     script: 'Create delicious coconut treats that anyone can make at home. This easy recipe will show you how to make mouthwatering coconut-based desserts that are perfect for any occasion.'
                 },
                 {
@@ -426,7 +426,7 @@ export default function MyProjectsPage() {
                             type: 'IDEAS_TO_VIDEO'
                         }
                     },
-                    outputUrl: '/projects/ideastovideo/Bet Big, Win Big The High-Stakes Arena.mp4',
+                    outputUrl: './projects/ideastovideo/Bet Big, Win Big The High-Stakes Arena.mp4',
                     script: 'Experience the thrill of high-stakes betting in this exciting arena where fortunes are made and lost. Watch as players bet big and win even bigger in this intense gambling environment.'
                 }
             ];

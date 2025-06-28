@@ -42,100 +42,100 @@ const creators = [
         name: "Linguamarina",
         followers: "3.52M",
         platform: "youtube",
-        image: "/creators/linguamarina.jpg"
+        image: "./creators/linguamarina.jpg"
     },
     {
         name: "TwoSetViolin",
         followers: "4.3M",
         platform: "youtube",
-        image: "/creators/twosetviolin.jpg"
+        image: "./creators/twosetviolin.jpg"
     },
     {
         name: "Jon Youshaei",
         followers: "435K",
         platform: "youtube",
-        image: "/creators/jonyoushaei.jpg"
+        image: "./creators/jonyoushaei.jpg"
     },
     {
         name: "Armchair Historian",
         followers: "2.2M",
         platform: "youtube",
-        image: "/creators/armchairhistorian.jpg"
+        image: "./creators/armchairhistorian.jpg"
     },
     {
         name: "SaaStr",
         followers: "54.4K",
         platform: "youtube",
-        image: "/creators/saastr.jpg"
+        image: "./creators/saastr.jpg"
     },
     {
         name: "Sebastien Jefferies",
         followers: "422K",
         platform: "tiktok",
-        image: "/creators/sebastienjefferies.jpg"
+        image: "./creators/sebastienjefferies.jpg"
     },
     {
         name: "FLAGRANT",
         followers: "1.5M",
         platform: "youtube",
-        image: "/creators/flagrant.jpg"
+        image: "./creators/flagrant.jpg"
     },
     {
         name: "Mai Pham",
         followers: "3.3M",
         platform: "youtube",
-        image: "/creators/MaiPham.jpg"
+        image: "./creators/MaiPham.jpg"
     },
     {
         name: "ValueTainment",
         followers: "4.8M",
         platform: "youtube",
-        image: "/creators/ValueTainment.jpg"
+        image: "./creators/ValueTainment.jpg"
     },
     {
         name: "Brett Malinowski",
         followers: "478K",
         platform: "youtube",
-        image: "/creators/BrettMalinowski.jpg"
+        image: "./creators/BrettMalinowski.jpg"
     },
     {
         name: "Vinh Giang",
         followers: "2.4M",
         platform: "youtube",
-        image: "/creators/VinhGiang.jpg"
+        image: "./creators/VinhGiang.jpg"
     },
     {
         name: "Airrack",
         followers: "15.7M",
         platform: "youtube",
-        image: "/creators/Airrack.jpg"
+        image: "./creators/Airrack.jpg"
     },
     {
         name: "HellFrozen",
         followers: "5.2M",
         platform: "youtube",
-        image: "/creators/HellFrozen.jpg"
+        image: "./creators/HellFrozen.jpg"
     },
     {
         name: "yikes",
         followers: "1.2M",
         platform: "youtube",
-        image: "/creators/yikes.jpg"
+        image: "./creators/yikes.jpg"
     },
 ];
 
 const companies = [
-    { name: "BMW", logo: "/companies/bmw.svg" },
-    { name: "Apple", logo: "/companies/apple.svg" },
-    { name: "NVIDIA", logo: "/companies/nvidia.svg" },
-    { name: "GitHub", logo: "/companies/github.svg" },
-    { name: "VISA", logo: "/companies/visa.svg" },
-    { name: "Airbnb", logo: "/companies/airbnb.svg" },
-    { name: "Mcdonald", logo: "/companies/mcdonald.svg" },
-    { name: "Coca-Cola", logo: "/companies/coca-cola.svg" },
-    { name: "Nike", logo: "/companies/nike.svg" },
-    { name: "Sony", logo: "/companies/sony.svg" },
-    { name: "Amazon", logo: "/companies/amazon.svg" },
+    { name: "BMW", logo: "./companies/bmw.svg" },
+    { name: "Apple", logo: "./companies/apple.svg" },
+    { name: "NVIDIA", logo: "./companies/nvidia.svg" },
+    { name: "GitHub", logo: "./companies/github.svg" },
+    { name: "VISA", logo: "./companies/visa.svg" },
+    { name: "Airbnb", logo: "./companies/airbnb.svg" },
+    { name: "Mcdonald", logo: "./companies/mcdonald.svg" },
+    { name: "Coca-Cola", logo: "./companies/coca-cola.svg" },
+    { name: "Nike", logo: "./companies/nike.svg" },
+    { name: "Sony", logo: "./companies/sony.svg" },
+    { name: "Amazon", logo: "./companies/amazon.svg" },
 ];
 
 const stats = [
@@ -147,84 +147,84 @@ const stats = [
 
 const thumbnailShowcase = [
     {
-        image: "/showcase/image-1.jpg",
+        image: "./showcase/image-1.jpg",
         color: "from-green-500 to-emerald-500",
         prompt: "Hot air balloon floating above a valley, bold pastel text 'DREAM' at the top, soft focus on background, bright and cheerful tones."
     },
     {
-        image: "/showcase/image-2.jpg",
+        image: "./showcase/image-2.jpg",
         color: "from-orange-500 to-amber-500",
         prompt: "A lone astronaut on Mars, red rocky terrain, Earth visible in the sky, bold text 'Herox' in white behind, cinematic glow, soft shadows."
     },
     {
-        image: "/showcase/image-3.jpg",
+        image: "./showcase/image-3.jpg",
         color: "from-blue-500 to-cyan-500",
         prompt: "A futuristic cityscape, neon lights, flying cars, text 'WELCOME TO 2099' in bright blue with a glitch effect, moody cyberpunk vibe."
     },
     {
-        image: "/showcase/image-7.jpg",
+        image: "./showcase/image-7.jpg",
         color: "from-green-500 to-emerald-500",
         prompt: "Dense jungle, tattered clothes, wide eyes of fear, wild animals lurking in shadows, bold white text 'SURVIVING THE WILDERNESS' in lower third, cinematic depth, high detail."
     },
     {
-        image: "/showcase/image-4.jpg",
+        image: "./showcase/image-4.jpg",
 
         color: "from-purple-500 to-pink-500",
         prompt: "Desert with a single tree, bold black text 'SURVIVOR' in bottom corner, high contrast, cracked earth texture, orange glow on the horizon."
     },
     {
-        image: "/showcase/image-5.jpg",
+        image: "./showcase/image-5.jpg",
         color: "from-red-500 to-rose-500",
         prompt: "City skyline at sunrise, bold white text 'RISE ABOVE' centered, soft pink and orange tones, slight fog, glowing edges around text."
     },
     {
-        image: "/showcase/image-6.jpg",
+        image: "./showcase/image-6.jpg",
         color: "from-green-500 to-emerald-500",
         prompt: "Lone hiker on a snowy mountain, bold yellow text 'FEARLESS' at the top, snowstorm effect, dramatic lighting on hiker."
     },
 ];
 
 const showcaseVideos = {
-    shorts: { video: "/showcase/shorts-showcase.mp4", color: "from-purple-500 to-blue-500" },
-    long: { video: "/showcase/long-showcase.mp4", color: "from-green-500 to-emerald-500" },
-    broll: { video: "/showcase/broll-showcase.mp4", color: "from-orange-500 to-amber-500" }
+    shorts: { video: "./showcase/shorts-showcase.mp4", color: "from-purple-500 to-blue-500" },
+    long: { video: "./showcase/long-showcase.mp4", color: "from-green-500 to-emerald-500" },
+    broll: { video: "./showcase/broll-showcase.mp4", color: "from-orange-500 to-amber-500" }
 };
 
 const musicShowcase = [
     {
         prompt: "Epic orchestral buildup with dramatic drums",
         category: "Cinematic",
-        audio: "/showcase/music/cinematic.mp3",
+        audio: "./showcase/music/cinematic.mp3",
         color: "from-red-500 to-orange-500"
     },
     {
         prompt: "Upbeat electronic pop with energetic synths",
         category: "Upbeat",
-        audio: "/showcase/music/upbeat.mp3",
+        audio: "./showcase/music/upbeat.mp3",
         color: "from-blue-500 to-purple-500"
     },
     {
         prompt: "Emotional piano with ambient pads",
         category: "Emotional",
-        audio: "/showcase/music/emotional.mp3",
+        audio: "./showcase/music/emotional.mp3",
         color: "from-indigo-500 to-blue-500"
     },
     {
         prompt: "Lo-fi beats with jazzy piano",
         category: "Chill",
-        audio: "/showcase/music/lofi.mp3",
+        audio: "./showcase/music/lofi.mp3",
         color: "from-green-500 to-teal-500"
     },
     {
         prompt: "Corporate motivational with light percussion",
         category: "Corporate",
-        audio: "/showcase/music/corporate.mp3",
+        audio: "./showcase/music/corporate.mp3",
         color: "from-yellow-500 to-orange-500"
     },
     {
         prompt: "Dark atmospheric tension builder",
         category: "Suspense",
-        audio: "/showcase/music/suspense.mp3",
+        audio: "./showcase/music/suspense.mp3",
         color: "from-purple-500 to-pink-500"
     }
 ];

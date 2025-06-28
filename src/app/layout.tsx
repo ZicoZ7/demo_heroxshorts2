@@ -31,10 +31,10 @@ export const metadata: Metadata = {
   creator: 'Sharif Zafar',
   publisher: 'Sharif Zafar',
   icons: {
-    icon: '/heroxshorts.ico',
-    apple: '/heroxshorts.ico',
+    icon: './heroxshorts.ico',
+    apple: './heroxshorts.ico',
   },
-  manifest: '/manifest.json',
+  manifest: './manifest.json',
   openGraph: {
     type: 'website',
     title: 'HeroxShorts - Transform Your Content with AI',
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     locale: 'en_US',
     images: [
       {
-        url: '/showcase/image-2.webp', // Replace with your actual OG image
+        url: './showcase/image-2.webp', // Replace with your actual OG image
         width: 1200,
         height: 630,
         alt: 'HeroxShorts Preview'

@@ -10,7 +10,7 @@ export const HeroxShortsIcon = ({ className, size = 50 }: CustomIconProps) => {
   return (
     <div className={cn('relative', className)} style={{ width: size, height: size }}>
       <Image
-        src="/heroxshorts.ico"
+        src="./heroxshorts.ico"
         alt="HeroxShorts"
         width={size}
         height={size}
