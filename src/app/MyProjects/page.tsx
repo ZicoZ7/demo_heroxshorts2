@@ -78,7 +78,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: './projects/longtoshort/Ronaldo\'s First Shot Hits the Post!.mp4',
+                            path: './projects/longtoshort/RonaldoFirstShotHitsthePost.mp4',
                             confidence: 0.94,
                             viral_title: 'Ronaldo\'s First Shot Hits the Post!',
                             layout: 'fill'
@@ -96,7 +96,7 @@ export default function MyProjectsPage() {
                     },
                     clips: [
                         {
-                            path: './projects/longtoshort/Why Ignorance Is Used To Control Populations.mp4',
+                            path: './projects/longtoshort/WhyIgnoranceIsUsedToControlPopulations.mp4',
                             confidence: 0.91,
                             viral_title: 'Why Ignorance Is Used To Control Populations',
                             layout: 'fill'
